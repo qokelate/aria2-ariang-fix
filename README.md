@@ -1,3 +1,7 @@
+# 修复/修改
+1. Firefox修复unsafe:moz-extension://问题(无法点击任何页面)
+2. 右键复制菜单仅复制Value
+
 # Aria2-AriaNG 下载组件
 基于Aria2并使用AriaNG界面管理的浏览器下载组件，取代浏览器内置的下载器。
 当开启时侦测下载连结，导引到本扩展并传送到Aria2进行文件下载。
